@@ -1,35 +1,30 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "WishIt!",
+    subtitle: "Swift and SwiftUI",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./wishit.png",
+    link: "https://apps.apple.com/us/app/wishit/id1576191676",
+    type: "iOS App"
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "UniChecker",
+    subtitle: "Swift and SwiftUI",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./unichecker.png",
+    link: "https://apps.apple.com/us/app/libretto-universitario-voti/id1551514057",
+    type: "iOS App"
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Fit Food",
+    subtitle: "Swift and SwiftUI",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Fit Food.png",
+    link: "https://apps.apple.com/us/app/wishit/id1576191676",
+    type: "iOS App"
   },
 ];
 
@@ -51,10 +46,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Swift",
+  "SwiftUI",
+  "UIKit",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Java",
+  "Python",
 ];
